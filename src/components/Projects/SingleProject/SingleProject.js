@@ -50,7 +50,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                     </h2>
                     <img src={image ? image : placeholder} alt={name} />
                     <div className='project--showcaseBtn'>
-                        <a
+                        {/* <a
                             href={demo}
                             target='_blank'
                             rel='noreferrer'
@@ -67,8 +67,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                                     .toLowerCase()}-demo`}
                                 className={classes.icon}
                                 aria-label='Demo'
-                            />
-                        </a>
+                            /> */}
+                        {/* </a> */}
                         <a
                             href={code}
                             target='_blank'
