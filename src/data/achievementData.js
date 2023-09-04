@@ -1,5 +1,6 @@
 export const achievementData = {
-    bio : "TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     TODO     ",
+    bio : "I have a strong and unwavering commitment to continually upgrading my skillset through the completion of relevant courses and obtaining certifications. In today's rapidly evolving professional landscape, I believe that staying ahead of the curve is not only essential but also incredibly rewarding. I see each course as an opportunity to expand my knowledge, gain practical expertise, and sharpen my abilities in various domains.",
+    bio2 : "By earning certifications, I can not only validate my proficiency but also enhance my career prospects and contribute effectively to my chosen field. My enthusiasm for self-improvement and dedication to lifelong learning drive me to seek out educational opportunities that empower me to excel and remain competitive in my chosen career path.",
     achievements : [
         {
             id : 1,

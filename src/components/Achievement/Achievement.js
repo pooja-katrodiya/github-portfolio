@@ -14,7 +14,9 @@ function Achievement() {
                 <div className="achievement" id="achievement" style={{backgroundColor: theme.secondary}}>
                 <div className="achievement-body">
                     <h1 style={{color: theme.primary}}>Certifications</h1>
-                    <h4 style={{color:theme.tertiary}}>{achievementData.bio}</h4>
+                    <h6 style={{color:theme.tertiary}}>{achievementData.bio}</h6>
+                    <br></br>
+                    <h6 style={{color:theme.tertiary}}>{achievementData.bio2}</h6>
                 </div>
                 <div className="achievement-cards">
                     {achievementData.achievements.map(achieve => ( 

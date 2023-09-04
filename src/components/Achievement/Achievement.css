@@ -24,7 +24,13 @@
 
 .achievement-body h4 {
     font-size: 1.75rem;
-    font-family: 'Caveat', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.achievement-body h6 {
+    font-size: 1.25rem;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
 
