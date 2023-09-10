@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-portfolio/static/css/main.d4eb600d.chunk.css",
-    "main.js": "/github-portfolio/static/js/main.a57dbf38.chunk.js",
-    "main.js.map": "/github-portfolio/static/js/main.a57dbf38.chunk.js.map",
+    "main.js": "/github-portfolio/static/js/main.8fa1cfdd.chunk.js",
+    "main.js.map": "/github-portfolio/static/js/main.8fa1cfdd.chunk.js.map",
     "runtime-main.js": "/github-portfolio/static/js/runtime-main.b1f6988b.js",
     "runtime-main.js.map": "/github-portfolio/static/js/runtime-main.b1f6988b.js.map",
     "static/css/2.33113df8.chunk.css": "/github-portfolio/static/css/2.33113df8.chunk.css",
@@ -97,7 +97,7 @@
     "static/media/pytorch.1862724d.svg": "/github-portfolio/static/media/pytorch.1862724d.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/github-portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/github-portfolio/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.eaff6047.pdf": "/github-portfolio/static/media/resume.eaff6047.pdf",
+    "static/media/resume.1806dbfd.pdf": "/github-portfolio/static/media/resume.1806dbfd.pdf",
     "static/media/seven.3168c0a5.svg": "/github-portfolio/static/media/seven.3168c0a5.svg",
     "static/media/six.bd765919.svg": "/github-portfolio/static/media/six.bd765919.svg",
     "static/media/slick-theme.css": "/github-portfolio/static/media/slick.c94f7671.ttf",
@@ -112,6 +112,6 @@
     "static/css/2.33113df8.chunk.css",
     "static/js/2.da5a53a3.chunk.js",
     "static/css/main.d4eb600d.chunk.css",
-    "static/js/main.a57dbf38.chunk.js"
+    "static/js/main.8fa1cfdd.chunk.js"
   ]
 }
