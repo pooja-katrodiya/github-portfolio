@@ -18,7 +18,7 @@ function Skills() {
 
     return (
         <div className="skills" style={{backgroundColor: theme.secondary}}>
-            <div className="skillsHeader">
+            <div className="skillsHeader" id="skills">
                 <h2 style={{color: theme.primary}}>Skills</h2>
             </div>
             <div className="skillsContainer">

@@ -129,7 +129,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='resume'
+                                    download='Resume - Poojaben D. Katrodiya.pdf'
                                     target='_blank'
                                     rel='noreferrer'
                                 >
