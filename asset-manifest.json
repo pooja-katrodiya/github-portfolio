@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/github-portfolio/static/css/main.d4eb600d.chunk.css",
-    "main.js": "/github-portfolio/static/js/main.c7547837.chunk.js",
-    "main.js.map": "/github-portfolio/static/js/main.c7547837.chunk.js.map",
+    "main.js": "/github-portfolio/static/js/main.a57dbf38.chunk.js",
+    "main.js.map": "/github-portfolio/static/js/main.a57dbf38.chunk.js.map",
     "runtime-main.js": "/github-portfolio/static/js/runtime-main.b1f6988b.js",
     "runtime-main.js.map": "/github-portfolio/static/js/runtime-main.b1f6988b.js.map",
     "static/css/2.33113df8.chunk.css": "/github-portfolio/static/css/2.33113df8.chunk.css",
-    "static/js/2.5c8231b5.chunk.js": "/github-portfolio/static/js/2.5c8231b5.chunk.js",
-    "static/js/2.5c8231b5.chunk.js.map": "/github-portfolio/static/js/2.5c8231b5.chunk.js.map",
+    "static/js/2.da5a53a3.chunk.js": "/github-portfolio/static/js/2.da5a53a3.chunk.js",
+    "static/js/2.da5a53a3.chunk.js.map": "/github-portfolio/static/js/2.da5a53a3.chunk.js.map",
     "static/js/3.a044e014.chunk.js": "/github-portfolio/static/js/3.a044e014.chunk.js",
     "static/js/3.a044e014.chunk.js.map": "/github-portfolio/static/js/3.a044e014.chunk.js.map",
     "index.html": "/github-portfolio/index.html",
     "static/css/2.33113df8.chunk.css.map": "/github-portfolio/static/css/2.33113df8.chunk.css.map",
     "static/css/main.d4eb600d.chunk.css.map": "/github-portfolio/static/css/main.d4eb600d.chunk.css.map",
-    "static/js/2.5c8231b5.chunk.js.LICENSE.txt": "/github-portfolio/static/js/2.5c8231b5.chunk.js.LICENSE.txt",
+    "static/js/2.da5a53a3.chunk.js.LICENSE.txt": "/github-portfolio/static/js/2.da5a53a3.chunk.js.LICENSE.txt",
     "static/media/ArtificialIntelligence.1c692085.png": "/github-portfolio/static/media/ArtificialIntelligence.1c692085.png",
     "static/media/ArtificialNeuralNetworks.fcb934c3.png": "/github-portfolio/static/media/ArtificialNeuralNetworks.fcb934c3.png",
     "static/media/index.css": "/github-portfolio/static/media/BestermindRegular.e58a1922.ttf",
@@ -62,7 +62,6 @@
     "static/media/eduPurple.0d11a0cf.svg": "/github-portfolio/static/media/eduPurple.0d11a0cf.svg",
     "static/media/eduRed.55e01742.svg": "/github-portfolio/static/media/eduRed.55e01742.svg",
     "static/media/eduYellow.6b8f8b23.svg": "/github-portfolio/static/media/eduYellow.6b8f8b23.svg",
-    "static/media/eight.98202b95.svg": "/github-portfolio/static/media/eight.98202b95.svg",
     "static/media/expBlack.777d4bba.svg": "/github-portfolio/static/media/expBlack.777d4bba.svg",
     "static/media/expBlue.159c6388.svg": "/github-portfolio/static/media/expBlue.159c6388.svg",
     "static/media/expGreen.dffa1cc6.svg": "/github-portfolio/static/media/expGreen.dffa1cc6.svg",
@@ -98,7 +97,7 @@
     "static/media/pytorch.1862724d.svg": "/github-portfolio/static/media/pytorch.1862724d.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/github-portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/github-portfolio/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.117593b2.pdf": "/github-portfolio/static/media/resume.117593b2.pdf",
+    "static/media/resume.eaff6047.pdf": "/github-portfolio/static/media/resume.eaff6047.pdf",
     "static/media/seven.3168c0a5.svg": "/github-portfolio/static/media/seven.3168c0a5.svg",
     "static/media/six.bd765919.svg": "/github-portfolio/static/media/six.bd765919.svg",
     "static/media/slick-theme.css": "/github-portfolio/static/media/slick.c94f7671.ttf",
@@ -111,8 +110,8 @@
   "entrypoints": [
     "static/js/runtime-main.b1f6988b.js",
     "static/css/2.33113df8.chunk.css",
-    "static/js/2.5c8231b5.chunk.js",
+    "static/js/2.da5a53a3.chunk.js",
     "static/css/main.d4eb600d.chunk.css",
-    "static/js/main.c7547837.chunk.js"
+    "static/js/main.a57dbf38.chunk.js"
   ]
 }
