@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-portfolio/static/css/main.d4eb600d.chunk.css",
-    "main.js": "/github-portfolio/static/js/main.331905bf.chunk.js",
-    "main.js.map": "/github-portfolio/static/js/main.331905bf.chunk.js.map",
+    "main.js": "/github-portfolio/static/js/main.c13fe66b.chunk.js",
+    "main.js.map": "/github-portfolio/static/js/main.c13fe66b.chunk.js.map",
     "runtime-main.js": "/github-portfolio/static/js/runtime-main.b1f6988b.js",
     "runtime-main.js.map": "/github-portfolio/static/js/runtime-main.b1f6988b.js.map",
     "static/css/2.33113df8.chunk.css": "/github-portfolio/static/css/2.33113df8.chunk.css",
@@ -62,6 +62,7 @@
     "static/media/eduPurple.0d11a0cf.svg": "/github-portfolio/static/media/eduPurple.0d11a0cf.svg",
     "static/media/eduRed.55e01742.svg": "/github-portfolio/static/media/eduRed.55e01742.svg",
     "static/media/eduYellow.6b8f8b23.svg": "/github-portfolio/static/media/eduYellow.6b8f8b23.svg",
+    "static/media/eight.98202b95.svg": "/github-portfolio/static/media/eight.98202b95.svg",
     "static/media/expBlack.777d4bba.svg": "/github-portfolio/static/media/expBlack.777d4bba.svg",
     "static/media/expBlue.159c6388.svg": "/github-portfolio/static/media/expBlue.159c6388.svg",
     "static/media/expGreen.dffa1cc6.svg": "/github-portfolio/static/media/expGreen.dffa1cc6.svg",
@@ -112,6 +113,6 @@
     "static/css/2.33113df8.chunk.css",
     "static/js/2.da5a53a3.chunk.js",
     "static/css/main.d4eb600d.chunk.css",
-    "static/js/main.331905bf.chunk.js"
+    "static/js/main.c13fe66b.chunk.js"
   ]
 }
