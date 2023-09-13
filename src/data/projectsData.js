@@ -5,6 +5,7 @@ import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
+import eight from '../assets/svg/projects/eight.svg'
 
 export const projectsData = [
     {
@@ -54,21 +55,30 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'Housing Price Prediction',
-        projectDesc: 'House price prediction model using supervised learning.',
-        tags: ['Scikit-learn', 'Pandas', 'NumPy', 'Python'],
-        code: 'https://github.com/pooja-katrodiya/Housing-Price-Prediction',
-        demo: 'https://github.com/pooja-katrodiya/Housing-Price-Prediction',
+        projectName: 'Profitable Relocation Forecast',
+        projectDesc: 'Analyzing the relocation of an automotive company to a different location using time series analysis techniques with the goal of optimizing profits.',
+        tags: ['Pandas', 'NumPy', 'Matplotlib', 'Python'],
+        code: 'https://github.com/pooja-katrodiya/Profitable-Relocation-Forecast',
+        demo: 'https://github.com/pooja-katrodiya/Profitable-Relocation-Forecast',
         image: six
     },
     {
-        id : 7,
+        id: 7,
+        projectName: 'Housing Price Prediction',
+        projectDesc: 'House price prediction model using supervised learning.',
+        tags: ['Scikit-learn', 'Pandas', 'NumPy', 'Python'],
+        code: 'ttps://github.com/pooja-katrodiya/Housing-Price-Prediction',
+        demo: 'ttps://github.com/pooja-katrodiya/Housing-Price-Prediction',
+        image: seven
+    },
+    {
+        id : 8,
         projectName: 'Thesis - Job Satisfaction of Employees in the Aviation Industry',
         projectDesc: 'Studied and presented techniques that could be used to track job satisfaction of Aviation employees at 2nd International Conference at Veer Narmad south Gujarat University (VNSGU), Surat.',
         tags: ['GNU Octave', 'Entropy', 'CRITIC', 'Proposed TOPSIS', 'MCDM Weighing Methods'],
-        code: '#',
-        demo: '#',
-        image: seven
+        code: 'https://drive.google.com/file/d/1cxifKzlCx-BmoWWhqoBW6nZ0UIwMMGoT/view?usp=sharing',
+        demo: 'https://drive.google.com/file/d/1cxifKzlCx-BmoWWhqoBW6nZ0UIwMMGoT/view?usp=sharing',
+        image: eight
     },
 ]
 
